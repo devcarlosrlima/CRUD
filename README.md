@@ -1,10 +1,8 @@
-# Cadastro de Funcioonarios
+# Cadastro de Funcionarios
 
 ## Resumo
 
 Fiz um crud simples utilizando JavaScript puro para as funcionalidades, é um crud para cadastro de funcionarios onde podemos colocar nome, função e salario, editar e excluir todas as informações ou apenas algumas.
-
-#### site 
 
 
 ## Techs Utilizadas

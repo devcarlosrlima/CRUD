@@ -48,5 +48,5 @@ function deleteItem(index) {
 ```
 
 ## Print do Site
-
+[link do projeto](https://crud-one-ochre.vercel.app/)
 ![image](https://github.com/devcarlosrlima/CRUD/assets/136191341/a4675b43-61cf-4cd8-b4fb-a152c21d8332)
